@@ -7,3 +7,7 @@
 数据集来自阿里天池大赛: [FashionAI全球挑战赛——服饰属性标签识别](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100150.711.8.ca8227845WAAap&raceId=231649)
 
 前端使用了[Vue.js](https://cn.vuejs.org/)实现
+
+**Demo效果**
+
+![Demo效果](./doc_files/demo.gif)
